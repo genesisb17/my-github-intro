@@ -1,1 +1,1 @@
-alias prj='cd ~/projects'
+my-github-intro prj='cd ~/projects'
